@@ -17,3 +17,4 @@ A repo to learn airflow
 - [Catchup and Backfille](./doc/catchup/catchup.md)
 - [Scheduler](./doc/scheduler/scheduler.md)
 - [Connect with PGDB](./doc/pgdb/pgdb.md)
+- [Install python package in Airflow Docker](./doc/package/package.md)
