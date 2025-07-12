@@ -15,3 +15,5 @@ A repo to learn airflow
 - [XComs](./doc/xcom/xcom.md)
 - [Taskflow API](./doc/taskflow_api/taskflow_api.md)
 - [Catchup and Backfille](./doc/catchup/catchup.md)
+- [Scheduler](./doc/scheduler/scheduler.md)
+- [Connect with PGDB](./doc/pgdb/pgdb.md)
