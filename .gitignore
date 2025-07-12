@@ -212,3 +212,4 @@ logs/
 plugins/
 
 airflow.cfg
+minio/*

@@ -18,3 +18,12 @@ A repo to learn airflow
 - [Scheduler](./doc/scheduler/scheduler.md)
 - [Connect with PGDB](./doc/pgdb/pgdb.md)
 - [Install python package in Airflow Docker](./doc/package/package.md)
+
+---
+
+- [MinIO](./doc/minio/minio.md)
+
+---
+
+- [Lab: Download CSV from S3 Bucket](./doc/download_s3/download_s3.md)
+- [Lab: Import CSV into PostgresSQL](./doc/import_pgdb/import_pgdb.md)
